@@ -1,4 +1,4 @@
-![Screenshot 2024-04-12 093211](https://github.com/SHREELEKHAS/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/149768910/14e7f12a-b5a3-4e58-b371-10d4898dd5ca)## SHREE LEKHA.S 212223110052
+## SHREE LEKHA.S 212223110052
 # 3a.CREATION FOR ECHO CLIENT AND ECHO SERVER USING TCP SOCKETS
 # AIM
 To write a python program for creating Echo Client and Echo Server using TCP
@@ -54,8 +54,8 @@ s.close()  # Close the connection
 
 
 
-![Screenshot 2024-04-12 093518](https://github.com/SHREELEKHAS/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/149768910/fe9b567e-a3fd-4894-84a6-0fc263784822)
 
+![Screenshot 2024-04-12 093518](https://github.com/SHREELEKHAS/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/149768910/1bb819a8-d146-43f8-9f6d-c5419d55353b)
 
 
 
